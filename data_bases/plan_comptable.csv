@@ -1,0 +1,24 @@
+﻿compte_id,compte_nom,classe,sous_classe
+2282, Equipement de bureau,Actif non courant,Immobilisation corporelle 
+224,Materiel de Transport,Actif non courant,Immobilisation corporelle 
+311,Stocks de matiéres premiéres,Actif courant,Stock
+326,stock d'emballage,Actif courant,Stock
+411,Clients,Actif courant,Clients et compte ratachés
+452,Créance sur cession des immobilisation,Actif courant,Autre passifs courants
+1621,Emprunts a long terme,Passif non courant,Emprunts
+403,Fournisseur d'exploitation effets a payer,passif courant,Fournisseur et compte ratachés
+4091,Fournisseur Avances et acomptes ,Actif courant,Autre actifs courants
+532,Banque,Actif courant,Liquidités et équivalents de liquidités
+54,Caisse,Actif courant,Liquidités et équivalents de liquidités
+223,"Installation technique,materiel et outillage industriels",Actif non courant,Immobilisation corporelle 
+251,Titre de participation,Actif non courant ,Immobilisation financieres
+264,Préts,Actif non courant ,Immobilisation financieres
+413,Clients Effet a recevoir,Actif courant,Clients et compte ratachés
+355,stock de produit fini,Actif courant,Stock
+607,achat de marchandise,charge,achat
+401,Fournisseur d'exploitaion,passif courant,Fournisseur et compte ratachés
+52,placement courant,Actif courant,placement et autre actifs financiers
+251,Titre de participation,Actif non courant,Immobilisation financieres
+606,achat non stocké,charge,achat
+623,"publicité,publication et relation publiques",charge,Autre service exterieur
+626,Frais postaux et frais telecomunication,charge,Autre service exterieur
