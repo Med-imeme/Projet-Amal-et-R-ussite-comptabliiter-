@@ -33,7 +33,7 @@ donc alors d'aprés b)et c) le capital social=72000+60100=132100
 3)creer une bilan  
 4)creer la balance de la société  
   a)pour les compte de bilan (compte 1 jusqu'a 5)  
-  b)pour les compte de gestion (compte 1 jusqu'a 5)  
+  b)pour les compte de gestion (compte 6 et 7)  
 5) calculer le resultat  
   a) par la methode de patrimoine  
   b) par l'ecart de compte gestion  
