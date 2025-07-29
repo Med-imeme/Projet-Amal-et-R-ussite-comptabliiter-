@@ -8,7 +8,7 @@ NB: The SQLite .db file cannot be previewed directly on GitHub. You must downloa
 ✅ Automatiser le traitement des soldes initiaux, mouvements et soldes finaux.
 ✅ Générer une balance comptable dynamique.
 ✅ Calculer le résultat net, retraiter les actifs fictifs, et déterminer le montant de l’impôt dû.
-✅ Respecter les règles du plan comptable tunisien (PCN) : classes 1 à 7, traitement des capitaux propres, résultat d’exploitation, etc..
+✅ Respecter les règles du  comptable tunisien  : classes 1 à 7, traitement des capitaux propres, résultat d’exploitation, etc..
 
 ---
 
@@ -18,6 +18,8 @@ SQL avancé (CTE, agrégations, nettoyage de données)
 Structuration des tables : plan_comptable, solde_initial, ecriture_comptable, balance_bilan, solde_final ,utilisateur,operations,entreprises,bilan.
 
 ✅ Le tout conforme à la logique comptable tunisienne (PCN) : classes 1 à 7, traitement des capitaux propres, séparation bilan/gestion.
+
+---
 
 ## Question utiliser:
 1)determner le capital sarl .
