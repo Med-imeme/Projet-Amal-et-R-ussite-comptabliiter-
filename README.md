@@ -23,17 +23,17 @@ Structuration des tables : plan_comptable, solde_initial, ecriture_comptable, ba
 
 ## Question utiliser:
 1)determner le capital sarl .  
-  a)determiner le compte d'exploitant de societer amal  
-  b)calculer le SNC  
-  c)calculer apport de reussite   
+   a)determiner le compte d'exploitant de societer amal  
+   b)calculer le SNC  
+   c)calculer apport de reussite   
 donc alors d'aprés b)et c) le capital social=72000+60100=132100  
 2)creation d'une noveaux tableaux pour les solde des comptes de noveaux entreprise sarl  
-  a)fusion des compte   
-  b)verifier la principe de double partie   
+   a)fusion des compte   
+   b)verifier la principe de double partie   
 3)creer une bilan  
 4)creer la balance de la société  
- a)pour les compte de bilan (compte 1 jusqu'a 5)  
- b)pour les compte de gestion (compte 1 jusqu'a 5)  
+  a)pour les compte de bilan (compte 1 jusqu'a 5)  
+  b)pour les compte de gestion (compte 1 jusqu'a 5)  
 5) calculer le resultat  
- a) par la methode de patrimoine  
- b) par l'ecart de compte gestion  
+  a) par la methode de patrimoine  
+  b) par l'ecart de compte gestion  
