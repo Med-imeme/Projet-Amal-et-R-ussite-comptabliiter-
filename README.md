@@ -7,7 +7,7 @@ NB: The SQLite .db file cannot be previewed directly on GitHub. You must downloa
 ✅ Regrouper les données comptables des deux sociétés.  
 ✅ Automatiser le traitement des soldes initiaux, mouvements et soldes finaux.  
 ✅ Générer une balance comptable dynamique.  
-✅ Calculer le résultat net, retraiter les actifs fictifs, et déterminer le montant de l’impôt dû.  
+✅ Calculer le résultat net et retraiter les actifs fictifs.  
 ✅ Respecter les règles du  comptable tunisien  : classes 1 à 7, traitement des capitaux propres, résultat d’exploitation, etc..  
 
 ---
