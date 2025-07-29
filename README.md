@@ -12,7 +12,7 @@ NB: The SQLite .db file cannot be previewed directly on GitHub. You must downloa
 
 ---
 
-##Outils utilisés :
+## Outils utilisés :
 SQLite (via DB Browser)  
 SQL avancé (CTE, agrégations, nettoyage de données)  
 Structuration des tables : plan_comptable, solde_initial, ecriture_comptable, balance_bilan, solde_final ,utilisateur,operations,entreprises,bilan.  
