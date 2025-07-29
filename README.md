@@ -1,5 +1,5 @@
 # Projet Amal et Réussite comptabliiter
-This project is based on an accounting exam from IHEC Sousse (2021 – Session Principale). It simulates the merger of two companies ("Amal" and "Réussite") first handled in Excel, then migrated into SQL for automated financial reporting and analysis.
+This project is based on an accounting exam from IHEC Sousse (2021 – Session Principale). It simulates the merger of two companies ("Amal" and "Réussite") first handled in Excel, then migrated into SQL for automated financial reporting and analysis.  
 NB: The SQLite .db file cannot be previewed directly on GitHub. You must download it and open it using a SQL GUI editor like DB Browser for SQLite or DBeaver.
 
 ## Objectifs du projet :
