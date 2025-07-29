@@ -17,7 +17,7 @@ SQLite (via DB Browser)
 SQL avancé (CTE, agrégations, nettoyage de données)  
 Structuration des tables : plan_comptable, solde_initial, ecriture_comptable, balance_bilan, solde_final ,utilisateur,operations,entreprises,bilan.  
 
-✅ Le tout conforme à la logique comptable tunisienne (PCN) : classes 1 à 7, traitement des capitaux propres, séparation bilan/gestion.  
+✅ Le tout conforme à la logique comptable tunisienne  : classes 1 à 7, traitement des capitaux propres.
 
 ---
 
