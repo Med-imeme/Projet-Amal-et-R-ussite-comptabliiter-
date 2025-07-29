@@ -4,11 +4,11 @@ NB: The SQLite .db file cannot be previewed directly on GitHub. You must downloa
 
 ## Objectifs du projet :
 
-✅ Regrouper les données comptables des deux sociétés
-✅ Automatiser le traitement des soldes initiaux, mouvements et soldes finaux
-✅ Générer une balance comptable dynamique
-✅ Calculer le résultat net, retraiter les actifs fictifs, et déterminer le montant de l’impôt dû
-✅ Respecter les règles du plan comptable tunisien (PCN) : classes 1 à 7, traitement des capitaux propres, résultat d’exploitation, etc.
+-✅ Regrouper les données comptables des deux sociétés
+-✅ Automatiser le traitement des soldes initiaux, mouvements et soldes finaux
+-✅ Générer une balance comptable dynamique
+-✅ Calculer le résultat net, retraiter les actifs fictifs, et déterminer le montant de l’impôt dû
+-✅ Respecter les règles du plan comptable tunisien (PCN) : classes 1 à 7, traitement des capitaux propres, résultat d’exploitation, etc.
 
 ##Outils utilisés :
 SQLite (via DB Browser)
